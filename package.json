@@ -11,6 +11,8 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "github-api": "^3.0.0",
+    "lodash": "^4.17.10",
     "mongoose": "^5.2.10"
   }
 }
